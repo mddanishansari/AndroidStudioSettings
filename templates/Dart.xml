@@ -1,0 +1,16 @@
+<templateSet group="Dart">
+  <template name="from_json" value="factory $CLASSNAME$.fromJson(Map&lt;String,dynamic&gt; json){&#10;    return $END$;&#10;  }" description="Create fromJson factory function" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASSNAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+  <template name="sout" value="print($END$);" description="print to standard out" toReformat="true" toShortenFQNames="true">
+    <context />
+  </template>
+  <template name="log" value="log($END$);" description="Logs in the console" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+</templateSet>

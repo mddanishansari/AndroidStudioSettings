@@ -1,0 +1,16 @@
+<templateSet group="AndroidLogKotlin">
+  <template name="method-name-kotlin" value="val methodName = &quot;$METHOD_NAME$&quot;" description="Method name variable" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="logr" value="android.util.Log.d(TAG, &quot;$METHOD_NAME$() returned: $result&quot;)" description="Log result of this method" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="kotlinFunctionName()" defaultValue="" alwaysStopAt="false" />
+    <context />
+  </template>
+  <template name="logt" value="private val TAG = $className$::class.java.simpleName" description="A static logtag with your current filename" toReformat="true" toShortenFQNames="true">
+    <variable name="className" expression="kotlinClassName()" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
