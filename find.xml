@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Source code only" />
+    <option name="defaultScopeName" value="Source code only" />
+    <option name="SEARCH_SCOPE" value="Source code only" />
     <mask>*.java</mask>
     <mask>*.kt</mask>
   </component>
