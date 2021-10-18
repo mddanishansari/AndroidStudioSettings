@@ -50,6 +50,10 @@
           <option name="url" value="https://github.com/mddanishansari/NumactsAppathon.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/chrisbanes/tivi.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Danish\AndroidStudioProjects" />
