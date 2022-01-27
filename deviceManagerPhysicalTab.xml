@@ -8,7 +8,18 @@
             <value value="192.168.0.106:40575" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-01-27T08:20:31.309573Z" />
+        <name value="Xiaomi M2007J17I" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.0.106:37709" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-01-27T11:44:22.977725400Z" />
         <name value="Xiaomi M2007J17I" />
         <target value="Android 11.0" />
         <api value="30" />
