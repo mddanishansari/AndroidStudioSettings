@@ -5,9 +5,7 @@
       <option name="DART" value="true" />
     </context>
   </template>
-  <template name="sout" value="print($END$);" description="print to standard out" toReformat="true" toShortenFQNames="true">
-    <context />
-  </template>
+  <template name="sout" value="print($END$);" description="print to standard out" toReformat="true" toShortenFQNames="true" />
   <template name="log" value="log($END$);" description="Logs in the console" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="DART" value="true" />
