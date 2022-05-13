@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'plaid'" />
-    <option name="defaultScopeName" value="Project 'plaid'" />
-    <option name="SEARCH_SCOPE" value="Project 'plaid'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.java</mask>
     <mask>*.properties</mask>
     <mask>*.kt</mask>
