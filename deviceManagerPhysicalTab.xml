@@ -111,6 +111,18 @@
         <target value="Android 11.0" />
         <api value="30" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.0.100:37919" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-05-25T06:14:22.815993Z" />
+        <name value="Xiaomi M2007J17I" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
