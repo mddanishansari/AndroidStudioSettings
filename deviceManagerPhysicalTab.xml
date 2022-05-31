@@ -8,9 +8,10 @@
             <value value="adb-fce04ee0-rfbMal._adb-tls-connect._tcp." />
           </Key>
         </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
-        <api value="1" />
+        <lastOnlineTime value="2022-05-31T09:42:32.073547Z" />
+        <name value="Xiaomi M2007J17I" />
+        <target value="Android 11.0" />
+        <api value="30" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -140,6 +141,18 @@
             <value value="192.168.0.104:39631" />
           </Key>
         </key>
+        <name value="Xiaomi M2007J17I" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.0.104:39979" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-05-31T09:42:32.200219Z" />
         <name value="Xiaomi M2007J17I" />
         <target value="Android 11.0" />
         <api value="30" />
