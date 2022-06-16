@@ -9,8 +9,8 @@
           </Key>
         </key>
         <name value="Xiaomi M2007J17I" />
-        <target value="Android 11.0" />
-        <api value="30" />
+        <target value="Android 12.0" />
+        <api value="31" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -162,7 +162,6 @@
             <value value="192.168.0.104:38779" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-05-31T13:48:12.807393Z" />
         <name value="Xiaomi M2007J17I" />
         <target value="Android 11.0" />
         <api value="30" />
@@ -196,7 +195,6 @@
             <value value="192.168.0.100:39149" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-06-07T14:30:42.089379Z" />
         <name value="Xiaomi M2007J17I" />
         <target value="Android 11.0" />
         <api value="30" />
