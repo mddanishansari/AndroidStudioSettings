@@ -1,7 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine Card sca" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Card sca" />
+        <option value="package:mine " />
+        <option value="package:mine tag:ScanCardFragment" />
         <option value="package:mine" />
       </list>
     </option>
