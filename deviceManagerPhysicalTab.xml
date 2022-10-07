@@ -1,0 +1,215 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-fce04ee0-rfbMal._adb-tls-connect._tcp." />
+          </Key>
+        </key>
+        <name value="Xiaomi M2007J17I" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.0.106:40575" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2007J17I" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.0.106:37709" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2007J17I" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.0.106:41053" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2007J17I" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.0.101:40155" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2007J17I" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.0.101:38473" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2007J17I" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.0.101:39203" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2007J17I" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.0.105:37711" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2007J17I" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.0.100:39809" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2007J17I" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.0.100:42399" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2007J17I" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.0.100:37919" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2007J17I" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.0.104:38531" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2007J17I" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.0.104:39631" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2007J17I" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.0.104:39979" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2007J17I" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.0.104:38779" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2007J17I" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.0.100:39147" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2007J17I" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.0.100:37709" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2007J17I" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.0.100:39149" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2007J17I" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.0.107:40779" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2007J17I" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>

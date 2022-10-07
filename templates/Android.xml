@@ -1,0 +1,24 @@
+<templateSet group="Android">
+  <template name="adapter" value="class $adapterClassName$ : androidx.recyclerview.widget.ListAdapter&lt;$modelName$, $adapterClassName$.$modelName$ViewHolder&gt;(DIFF_CALLBACK) {&#10;    override fun onCreateViewHolder(parent: android.view.ViewGroup, viewType: Int): $modelName$ViewHolder {&#10;        val binding = $itemBindingClass$.inflate(android.view.LayoutInflater.from(parent.context), parent, false)&#10;        return $modelName$ViewHolder(binding)&#10;    }&#10;&#10;    override fun onBindViewHolder(holder: $modelName$ViewHolder, position: Int) {&#10;        holder.bind(getItem(position))&#10;    }&#10;&#10;    inner class $modelName$ViewHolder(private val binding: $itemBindingClass$) :&#10;        androidx.recyclerview.widget.RecyclerView.ViewHolder(binding.root) {&#10;&#10;        fun bind($modelNameVariable$: $modelName$) {&#10;        }&#10;    }&#10;&#10;    companion object {&#10;        private val TAG = $adapterClassName$::class.java.simpleName&#10;        private val DIFF_CALLBACK = object : androidx.recyclerview.widget.DiffUtil.ItemCallback&lt;$modelName$&gt;() {&#10;            override fun areItemsTheSame(oldItem: $modelName$, newItem: $modelName$): Boolean {&#10;                return oldItem.id == newItem.id&#10;            }&#10;&#10;            override fun areContentsTheSame(oldItem: $modelName$, newItem: $modelName$): Boolean {&#10;                return oldItem == newItem&#10;            }&#10;        }&#10;    }&#10;}" description="Creates adapter for recyclerview" toReformat="false" toShortenFQNames="true">
+    <variable name="adapterClassName" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
+    <variable name="modelName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="itemBindingClass" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="modelNameVariable" expression="decapitalize(String)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="region" value="// region $REGION_NAME$" description="Start a region" toReformat="false" toShortenFQNames="true">
+    <variable name="REGION_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="endregion" value="// endregion" description="End the region" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>
