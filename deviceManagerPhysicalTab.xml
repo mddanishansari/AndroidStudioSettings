@@ -10,7 +10,7 @@
         </key>
         <name value="Xiaomi M2007J17I" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -21,7 +21,7 @@
         </key>
         <name value="Xiaomi M2007J17I" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -32,7 +32,7 @@
         </key>
         <name value="Xiaomi M2007J17I" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -43,7 +43,7 @@
         </key>
         <name value="Xiaomi M2007J17I" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -54,7 +54,7 @@
         </key>
         <name value="Xiaomi M2007J17I" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -65,7 +65,7 @@
         </key>
         <name value="Xiaomi M2007J17I" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -76,7 +76,7 @@
         </key>
         <name value="Xiaomi M2007J17I" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -87,7 +87,7 @@
         </key>
         <name value="Xiaomi M2007J17I" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -98,7 +98,7 @@
         </key>
         <name value="Xiaomi M2007J17I" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -109,7 +109,7 @@
         </key>
         <name value="Xiaomi M2007J17I" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -120,7 +120,7 @@
         </key>
         <name value="Xiaomi M2007J17I" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -131,7 +131,7 @@
         </key>
         <name value="Xiaomi M2007J17I" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -142,7 +142,7 @@
         </key>
         <name value="Xiaomi M2007J17I" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -153,7 +153,7 @@
         </key>
         <name value="Xiaomi M2007J17I" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -164,7 +164,7 @@
         </key>
         <name value="Xiaomi M2007J17I" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -175,7 +175,7 @@
         </key>
         <name value="Xiaomi M2007J17I" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -186,7 +186,7 @@
         </key>
         <name value="Xiaomi M2007J17I" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -197,7 +197,7 @@
         </key>
         <name value="Xiaomi M2007J17I" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -208,7 +208,18 @@
         </key>
         <name value="Xiaomi M2007J17I" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.0.107:38047" />
+          </Key>
+        </key>
+        <name value="Xiaomi M2007J17I" />
+        <target value="Android 12.0" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
