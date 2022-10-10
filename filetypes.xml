@@ -6,12 +6,15 @@
       <mapping ext="db" type="Native" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="caffemodel" type="PLAIN_TEXT" />
-      <removed_mapping ext="smali" type="Smali" />
       <mapping pattern=".analysis_options" type="YAML" />
-      <mapping ext="smali" type="smali" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
+      <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
       <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="smali" approved="true" type="Smali" />
+      <mapping ext="smali" type="smali" />
     </extensionMap>
   </component>
 </application>
