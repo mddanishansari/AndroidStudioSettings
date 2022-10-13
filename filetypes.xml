@@ -8,13 +8,9 @@
       <mapping ext="caffemodel" type="PLAIN_TEXT" />
       <mapping pattern=".analysis_options" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
-      <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="smali" approved="true" type="Smali" />
-      <mapping ext="smali" type="smali" />
     </extensionMap>
   </component>
 </application>
