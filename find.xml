@@ -5,11 +5,11 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.kt,*.java" />
-    <mask>*.properties</mask>
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*.java</mask>
     <mask>*.kt</mask>
     <mask>*.gradle</mask>
     <mask>*.kt,*.java</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
