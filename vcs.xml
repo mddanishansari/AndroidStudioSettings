@@ -134,6 +134,10 @@
           <option name="url" value="https://github.com/google-developer-training/basic-android-kotlin-compose-training-unscramble.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ch4rl3x/RevealSwipe.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/PersonalProjects" />
