@@ -6,7 +6,7 @@
     <mask>*.java</mask>
     <mask>*.kt</mask>
     <mask>*.gradle</mask>
-    <mask>*.properties</mask>
     <mask>*.kt,*.java</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
