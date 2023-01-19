@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'PiaSDK'" />
+    <option name="defaultScopeName" value="Project 'PiaSDK'" />
+    <option name="SEARCH_SCOPE" value="Project 'PiaSDK'" />
     <mask>*.java</mask>
     <mask>*.kt</mask>
     <mask>*.properties</mask>
