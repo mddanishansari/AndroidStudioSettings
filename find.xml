@@ -9,7 +9,7 @@
     <mask>*.kt</mask>
     <mask>*.properties</mask>
     <mask>*.xml</mask>
-    <mask>*.kt,*.java</mask>
     <mask>*.gradle</mask>
+    <mask>*.kt,*.java</mask>
   </component>
 </application>
