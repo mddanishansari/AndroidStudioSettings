@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:eu.nets.pia.sample " />
+    <option name="mostRecentlyUsed" value="package:piasamplexamarin.piasamplexamarin " />
     <option name="nonFavorites">
       <list>
+        <option value="package:piasamplexamarin.piasamplexamarin " />
         <option value="package:eu.nets.pia.sample " />
         <option value="package:mine" />
         <option value="package:mine tag:SecondActivity" />
