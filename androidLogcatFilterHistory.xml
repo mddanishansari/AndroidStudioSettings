@@ -4,6 +4,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:piasamplexamarin.piasamplexamarin " />
+        <option value="package:piasa" />
+        <option value="package:pia" />
         <option value="package:eu.nets.pia.sample " />
         <option value="package:mine" />
         <option value="package:mine tag:SecondActivity" />
