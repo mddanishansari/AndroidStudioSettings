@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:piasamplexamarin.piasamplexamarin " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:piasamplexamarin.piasamplexamarin " />
         <option value="package:piasa" />
         <option value="package:pia" />
@@ -11,7 +11,6 @@
         <option value="package:mine tag:SecondActivity" />
         <option value="package:mine tag:ResultKey" />
         <option value="package:mine System.out" />
-        <option value="package:mine " />
         <option value="package:mine okhttp" />
         <option value="package:mine okhttpp" />
         <option value="package:mine  tag: NetaxeptRestClient" />
