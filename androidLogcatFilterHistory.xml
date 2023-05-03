@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine level:info updateSelectedPaymentMethod" />
+    <option name="mostRecentlyUsed" value="package:mine level:info " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine level:info updateSelectedPaymentMethod" />
         <option value="package:mine level:info " />
+        <option value="package:mine level:info updateSelectedPaymentMethod" />
         <option value="package:mine" />
         <option value="package:mine Handler:" />
         <option value="package:mine " />
