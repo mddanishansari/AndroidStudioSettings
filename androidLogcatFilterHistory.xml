@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine okhttp" />
+    <option name="mostRecentlyUsed" value="package:mine PiaSDKTokenizedCardView" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine PiaSDKTokenizedCardView" />
         <option value="package:mine okhttp" />
         <option value="package:mine OkHttp" />
         <option value="package:mine" />
@@ -22,7 +23,6 @@
         <option value="package:mine  tag: NetaxeptRestClient" />
         <option value="package:mine okhttp tag:NetaxeptRestClient" />
         <option value="package:mine Card sca" />
-        <option value="package:mine tag:ScanCardFragment" />
       </list>
     </option>
   </component>

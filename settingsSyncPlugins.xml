@@ -20,6 +20,18 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.github.theapache64.rebuggerplugin">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                  <option value="org.jetbrains.kotlin" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.intellij.marketplace">
           <value>
             <PluginData>
