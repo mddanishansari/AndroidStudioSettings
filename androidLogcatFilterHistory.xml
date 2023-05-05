@@ -1,13 +1,13 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine Rebugger" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine Rebugger" />
         <option value="package:mine PiaSDKTokenizedCardView" />
         <option value="package:mine okhttp" />
         <option value="package:mine OkHttp" />
-        <option value="package:mine" />
         <option value="package:mine level:info " />
         <option value="package:mine level:info updateSelectedPaymentMethod" />
         <option value="package:mine Handler:" />
