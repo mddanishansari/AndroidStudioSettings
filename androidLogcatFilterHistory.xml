@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine authenticateTokenizedCardPaymen" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine authenticateTokenizedCardPaymen" />
         <option value="package:mine " />
+        <option value="package:mine authenticateTokenizedCardPaymen" />
         <option value="package:mine authenticateTokenizedCardPayment()" />
         <option value="package:mine Okhttp" />
         <option value="package:mine Rebugger" />
