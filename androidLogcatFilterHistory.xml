@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
+        <option value="package:mine ShopTab" />
         <option value="package:mine" />
         <option value="package:mine onCanSubmit called" />
         <option value="package:mine TokenizedCard" />
-        <option value="package:mine " />
         <option value="package:mine authenticateTokenizedCardPaymen" />
         <option value="package:mine authenticateTokenizedCardPayment()" />
         <option value="package:mine Okhttp" />
@@ -22,7 +22,6 @@
         <option value="package:piasa" />
         <option value="package:pia" />
         <option value="package:eu.nets.pia.sample " />
-        <option value="package:mine tag:SecondActivity" />
       </list>
     </option>
   </component>
