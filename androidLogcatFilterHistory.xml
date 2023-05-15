@@ -1,7 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package: com.example.pia_sample_flutter Result =" />
     <option name="nonFavorites">
       <list>
+        <option value="package: com.example.pia_sample_flutter Result =" />
+        <option value="package: com.example.pia_sample_flutter" />
+        <option value="package: " />
+        <option value="package:com.example.pia_sample_flutter Result = " />
+        <option value="package:com.example.pia_sample_flutter" />
+        <option value="package:" />
         <option value="package:mine " />
         <option value="package:mine ShopTab" />
         <option value="package:mine" />
@@ -16,12 +23,6 @@
         <option value="package:mine OkHttp" />
         <option value="package:mine level:info " />
         <option value="package:mine level:info updateSelectedPaymentMethod" />
-        <option value="package:mine Handler:" />
-        <option value="package:mine Selection" />
-        <option value="package:piasamplexamarin.piasamplexamarin " />
-        <option value="package:piasa" />
-        <option value="package:pia" />
-        <option value="package:eu.nets.pia.sample " />
       </list>
     </option>
   </component>
