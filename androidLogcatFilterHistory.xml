@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
+        <option value="package:mine Free focus for" />
         <option value="package:mine " />
         <option value="package:mine OkHttp" />
         <option value="package: com.example.pia_sample_flutter Result =" />
@@ -11,7 +14,6 @@
         <option value="package:com.example.pia_sample_flutter" />
         <option value="package:" />
         <option value="package:mine ShopTab" />
-        <option value="package:mine" />
         <option value="package:mine onCanSubmit called" />
         <option value="package:mine TokenizedCard" />
         <option value="package:mine authenticateTokenizedCardPaymen" />
@@ -21,7 +23,6 @@
         <option value="package:mine PiaSDKTokenizedCardView" />
         <option value="package:mine okhttp" />
         <option value="package:mine level:info " />
-        <option value="package:mine level:info updateSelectedPaymentMethod" />
       </list>
     </option>
   </component>
