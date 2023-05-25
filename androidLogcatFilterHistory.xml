@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.example.piashop" />
+    <option name="mostRecentlyUsed" value="package:com.example.piashop Refresh view" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.example.piashop Refresh view" />
         <option value="package:com.example.piashop" />
         <option value="package:com.example.piashop OkHttp" />
         <option value="package:com.example.piashop tag:onReceivedError" />
@@ -22,7 +23,6 @@
         <option value="package:mine ShopTab" />
         <option value="package:mine onCanSubmit called" />
         <option value="package:mine TokenizedCard" />
-        <option value="package:mine authenticateTokenizedCardPaymen" />
       </list>
     </option>
   </component>
