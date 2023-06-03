@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.example.piashop tag:PiaSDKLog " />
+    <option name="mostRecentlyUsed" value="package:com.example.piashop" />
     <option name="nonFavorites">
       <list>
-        <option value="package:com.example.piashop tag:PiaSDKLog " />
         <option value="package:com.example.piashop" />
+        <option value="package:com.example.piashop tag:PiaSDKLog " />
         <option value="package:com.example.piashop tag:PiaSDKLog" />
         <option value="package:com.example.piashop shouldOverrideUrlLoading" />
         <option value="package:com.example.piashop state" />
