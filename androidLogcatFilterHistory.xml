@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.example.piashop tag:PiaSDKLog " />
+    <option name="mostRecentlyUsed" value="package:mine OnResume" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine OnResume" />
         <option value="package:com.example.piashop tag:PiaSDKLog " />
         <option value="package:com.example.piashop ta" />
         <option value="package:com.example.piashop Paytrail view is ready?" />
@@ -22,7 +23,6 @@
         <option value="package:com.example.piashop User" />
         <option value="package:com.example.piashop merchant API " />
         <option value="package:com.example.piashop Refresh view" />
-        <option value="package:com.example.piashop tag:onReceivedError" />
       </list>
     </option>
   </component>
