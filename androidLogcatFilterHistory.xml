@@ -1,13 +1,14 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag: PiaSDKLog" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
+        <option value="package:mine OkHttp" />
         <option value="package:mine tag: PiaSDKLog" />
         <option value="package:mine tag: " />
         <option value="package:com.example.piashop tag:" />
         <option value="package:com.example.piashop OkHttp" />
-        <option value="package:mine OkHttp" />
         <option value="package:mine OnResume" />
         <option value="package:com.example.piashop tag:PiaSDKLog " />
         <option value="package:com.example.piashop ta" />
@@ -22,7 +23,6 @@
         <option value="package:com.example.piashop " />
         <option value="package:mine " />
         <option value="package:com.example.piashop merchant API" />
-        <option value="package:com.example.piashop User setting" />
       </list>
     </option>
   </component>
