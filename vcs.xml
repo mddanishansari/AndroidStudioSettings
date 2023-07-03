@@ -158,6 +158,10 @@
           <option name="url" value="http://dev.azure.com" />
           <option name="userName" value="NetsMS" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ptr-ptr/PUBG-ESP-Mod-Menu.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/PersonalProjects" />
